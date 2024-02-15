@@ -12,3 +12,8 @@ You then will want to run the make -4 commmand and the sudo make install command
 Next you will want to get yarGen by git cloning it
 ![image](https://github.com/JWT890/Yara-Detection-Lab/assets/95875505/0bc2f631-87d2-4b02-8e0e-3cd047dee29d)
 
+Next you will want to get arya by git cloning it
+![image](https://github.com/JWT890/Yara-Detection-Lab/assets/95875505/8a62585e-0267-4225-9abb-6a38b6ca640e)
+
+Next you will to get the script for the lab by once again git cloning it. The script will be found in the labscript folder that gets added
+![image](https://github.com/JWT890/Yara-Detection-Lab/assets/95875505/16fbfdb4-14ed-4f0d-b61e-fba01e2d8a87)
