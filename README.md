@@ -24,4 +24,7 @@ First file to find is the kenobi.txt file, which would be located on the Linux D
 the kenobi.strings.txt file to get the text from kenobi.txt
 ![image](https://github.com/JWT890/Yara-Detection-Lab/assets/95875505/551d3ec1-ffb4-4141-ba99-c9dfbb34d4d4)
 
+Next what you will want to do is get MD5, SHA1, SHA256 information from the kenobi.txt file
+![image](https://github.com/JWT890/Yara-Detection-Lab/assets/95875505/11b074a2-77e9-43f5-b570-cbf778df0261)
+
 
