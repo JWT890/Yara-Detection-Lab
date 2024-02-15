@@ -7,4 +7,6 @@ This a YARA Detection Lab. The main goal of YARA is to detect and identify malwa
 Next run the tar -xzvf v4.5.0.tar.gz command to unpack everything, then sudo apt update.  
 Then you go to the yara-4.5.0 folder and run the sudo apt install -y build-essential libssl-dev libmagic-dev libtool make gcc pkg-config libprotobuf-dev command to unpack more. 
 You then run the bootstrap.sh file and ./configure --enable-macho --enable-magic --enable-dex commands.  
+You then will want to run the make -4 commmand and the sudo make install command afterwards. Lastly run the sudo ldconfig command to fully install YARA  
+
 
