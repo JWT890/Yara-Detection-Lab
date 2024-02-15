@@ -9,4 +9,6 @@ Then you go to the yara-4.5.0 folder and run the sudo apt install -y build-essen
 You then run the bootstrap.sh file and ./configure --enable-macho --enable-magic --enable-dex commands.  
 You then will want to run the make -4 commmand and the sudo make install command afterwards. Lastly run the sudo ldconfig command to fully install YARA  
 
+Next you will want to get yarGen by git cloning it
+![image](https://github.com/JWT890/Yara-Detection-Lab/assets/95875505/0bc2f631-87d2-4b02-8e0e-3cd047dee29d)
 
