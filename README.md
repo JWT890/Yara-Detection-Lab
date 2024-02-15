@@ -17,3 +17,11 @@ Next you will want to get arya by git cloning it
 
 Next you will to get the script for the lab by once again git cloning it. The script will be found in the labscript folder that gets added
 ![image](https://github.com/JWT890/Yara-Detection-Lab/assets/95875505/16fbfdb4-14ed-4f0d-b61e-fba01e2d8a87)
+
+Next run the lab.sh script to create the respective files while also taking note of where they will be created at from looking over the lab.sh script
+
+First file to find is the kenobi.txt file, which would be located on the Linux Desktop. In the command terminal, go to the Desktop folder and type the strings ./kenobi.txt > kenobistring.txt command to create
+the kenobi.strings.txt file to get the text from kenobi.txt
+![image](https://github.com/JWT890/Yara-Detection-Lab/assets/95875505/551d3ec1-ffb4-4141-ba99-c9dfbb34d4d4)
+
+
