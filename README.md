@@ -42,3 +42,8 @@ Next you will want to is move on to the grievous.txt file and type the command s
 Next you will get the MD5, SHA1, and SHA256 information from the grievous.txt file
 ![image](https://github.com/JWT890/Yara-Detection-Lab/assets/95875505/043b7a4e-31d5-4cb7-954f-fd1845f52361)
 
+Then edit the starwars.yara file to include grevious.txt hashes
+![image](https://github.com/JWT890/Yara-Detection-Lab/assets/95875505/aeaa3aad-48cc-4f55-a44a-72886a0ab983)
+
+
+
