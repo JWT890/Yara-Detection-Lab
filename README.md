@@ -30,5 +30,5 @@ Next what you will want to do is get MD5, SHA1, SHA256 information from the keno
 ![image](https://github.com/JWT890/Yara-Detection-Lab/assets/95875505/11b074a2-77e9-43f5-b570-cbf778df0261)
 
 You will then want to create the first YARA rule with the respective MD5, SHA1, and SHA256 information like below
-![image](https://github.com/JWT890/Yara-Detection-Lab/assets/95875505/506c84d6-d050-4b6b-94a5-bf43ae5c9f63)
+
 
