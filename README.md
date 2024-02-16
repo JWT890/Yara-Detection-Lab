@@ -29,6 +29,9 @@ the kenobi.strings.txt file to get the text from kenobi.txt
 Next what you will want to do is get MD5, SHA1, SHA256 information from the kenobi.txt file
 ![image](https://github.com/JWT890/Yara-Detection-Lab/assets/95875505/11b074a2-77e9-43f5-b570-cbf778df0261)
 
-You will then want to create the first YARA rule with the respective MD5, SHA1, and SHA256 information like below
+You will then want to create the first YARA rule with the respective MD5, SHA1, and SHA256 information like below. For $s2 add regex around star{warz}
+![image](https://github.com/JWT890/Yara-Detection-Lab/assets/95875505/fbf6fff7-941e-4d75-819c-b556c6336159)
 
-
+Next run the sudo yara -m -s -r ~/Desktop/starwars.yara ~/ 2>/dev/null command. -m matches for files that comply with the rule. -s will display no warnings. -r stands for YARA rules. 
+~/ will look for paths that apply to the rule. 2>/dev/null redirects errors to /dev/null
+![image](https://github.com/JWT890/Yara-Detection-Lab/assets/95875505/56384ae9-838a-4dd0-8c0a-8d273ac267a2)
