@@ -35,3 +35,6 @@ You will then want to create the first YARA rule with the respective MD5, SHA1, 
 Next run the sudo yara -m -s -r ~/Desktop/starwars.yara ~/ 2>/dev/null command. -m matches for files that comply with the rule. -s will display no warnings. -r stands for YARA rules. 
 ~/ will look for paths that apply to the rule. 2>/dev/null redirects errors to /dev/null
 ![image](https://github.com/JWT890/Yara-Detection-Lab/assets/95875505/56384ae9-838a-4dd0-8c0a-8d273ac267a2)
+
+Next you will want to is move on to the grievous.txt file and type the command strings ./grievous.txt > grievous_strings.txt to create the _strings file to get text from grievous.txt
+![image](https://github.com/JWT890/Yara-Detection-Lab/assets/95875505/7f914263-88c2-4d8a-b662-c65a6d35a963)
