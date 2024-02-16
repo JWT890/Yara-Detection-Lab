@@ -38,3 +38,7 @@ Next run the sudo yara -m -s -r ~/Desktop/starwars.yara ~/ 2>/dev/null command. 
 
 Next you will want to is move on to the grievous.txt file and type the command strings ./grievous.txt > grievous_strings.txt to create the _strings file to get text from grievous.txt
 ![image](https://github.com/JWT890/Yara-Detection-Lab/assets/95875505/7f914263-88c2-4d8a-b662-c65a6d35a963)
+
+Next you will get the MD5, SHA1, and SHA256 information from the grievous.txt file
+![image](https://github.com/JWT890/Yara-Detection-Lab/assets/95875505/043b7a4e-31d5-4cb7-954f-fd1845f52361)
+
