@@ -62,3 +62,6 @@ Next move on the deathstar.txt file. Create a directory within /yara-4.5.0/yarGe
 
 Use the strings command once more on the deathstar.txt file and get the hashes for MD5, SHA1, and SHA256
 ![image](https://github.com/JWT890/Yara-Detection-Lab/assets/95875505/809391e3-2fc7-4d44-ace3-fae7994f6add)
+
+Next run the pip install -r requirements.txt command
+![image](https://github.com/JWT890/Yara-Detection-Lab/assets/95875505/ac0e24ad-0e2a-412c-9dd6-3914eefa87d7)
