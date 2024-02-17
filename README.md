@@ -51,4 +51,5 @@ Run the command strings ./yoda.txt > yoda_strings.txt command to create the _str
 ![image](https://github.com/JWT890/Yara-Detection-Lab/assets/95875505/2cd71997-26e8-49c0-a3b0-50abe9383ec7)
 
 Next get the MD5, SHA1, and SHA256 information from the yoda.txt file
+![image](https://github.com/JWT890/Yara-Detection-Lab/assets/95875505/625865d0-2eae-4a3b-9611-40edd97f4c8a)
 
