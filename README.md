@@ -45,5 +45,10 @@ Next you will get the MD5, SHA1, and SHA256 information from the grievous.txt fi
 Then edit the starwars.yara file to include grevious.txt hashes
 ![image](https://github.com/JWT890/Yara-Detection-Lab/assets/95875505/aeaa3aad-48cc-4f55-a44a-72886a0ab983)
 
+Run the sudo yara -m -s -r ~/Desktop/starwars.yara ~/ 2>/dev/null again with the grievous hashes included and move on to the next one, yoda.txt. 
 
+Run the command strings ./yoda.txt > yoda_strings.txt command to create the _strings file to get text from yoda.txt
+![image](https://github.com/JWT890/Yara-Detection-Lab/assets/95875505/2cd71997-26e8-49c0-a3b0-50abe9383ec7)
+
+Next get the MD5, SHA1, and SHA256 information from the yoda.txt file
 
