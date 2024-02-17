@@ -50,10 +50,9 @@ Run the sudo yara -m -s -r ~/Desktop/starwars.yara ~/ 2>/dev/null again with the
 Run the command strings ./yoda.txt > yoda_strings.txt command to create the _strings file to get text from yoda.txt
 ![image](https://github.com/JWT890/Yara-Detection-Lab/assets/95875505/2cd71997-26e8-49c0-a3b0-50abe9383ec7)
 
-How the starwars.yara file shoud look at this point
-![image](https://github.com/JWT890/Yara-Detection-Lab/assets/95875505/9e74cc67-8679-4db4-aa75-c2c6539beb52)
-
 
 Next get the MD5, SHA1, and SHA256 information from the yoda.txt file
 ![image](https://github.com/JWT890/Yara-Detection-Lab/assets/95875505/625865d0-2eae-4a3b-9611-40edd97f4c8a)
 
+How the starwars.yara file shoud look at this point
+![image](https://github.com/JWT890/Yara-Detection-Lab/assets/95875505/9e74cc67-8679-4db4-aa75-c2c6539beb52)
