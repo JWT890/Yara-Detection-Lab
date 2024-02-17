@@ -56,3 +56,9 @@ Next get the MD5, SHA1, and SHA256 information from the yoda.txt file
 
 How the starwars.yara file shoud look at this point
 ![image](https://github.com/JWT890/Yara-Detection-Lab/assets/95875505/9e74cc67-8679-4db4-aa75-c2c6539beb52)
+
+Next move on the deathstar.txt file. Create a directory within /yara-4.5.0/yarGen called malwarez and move the deathstar inside of it
+![image](https://github.com/JWT890/Yara-Detection-Lab/assets/95875505/0ae71aff-79e9-4fce-b200-f1db460490f4)
+
+Use the strings command once more on the deathstar.txt file and get the hashes for MD5, SHA1, and SHA256
+![image](https://github.com/JWT890/Yara-Detection-Lab/assets/95875505/809391e3-2fc7-4d44-ace3-fae7994f6add)
